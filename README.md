@@ -9,6 +9,10 @@ An interactive dashboard is created where the universities can monitor how thier
 The universities can also view the number of students opted a particular course and how are they performing in that by this the university directors will have an insight about where the improvement has to be made.
 There are many more insights that can be explored that are shown in the below screenshots.
 
+## How to view the project 
+
+Click on the raw file link and it will download the Power BI file where you can play around with the dashboard to see how it changes with each functionality.
+
 ## Snapshots of the project:
 1)
 ![Screenshot 2024-02-12 140249](https://github.com/MOHAMEDFARRAZ/Sales_Data_Analysis/assets/119418250/a664cad7-45ea-406e-9e39-84919cd1ff18)
