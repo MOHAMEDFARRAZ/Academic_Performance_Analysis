@@ -1,4 +1,4 @@
-# Students_Data_Analysis
+# Academic_Performance_Analysis
 
 This is a descriptive data analysis project that has considered Students educational data for its analysis.
 
